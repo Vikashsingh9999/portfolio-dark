@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+ 
+  /* font-size: 12px; */
+  background-color: black;
+}
+
+
+.navbar{
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 8, 4);
+  display: flex;
+}
+
+.buttons{
+ margin-left: 500px;
+ margin-top: 8px;
+ font-size: 10px;
+ font-weight: 100;
+
+}
+a{
+  padding-right: 15px;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  
+}
+.logo{
+  margin-left: 50px;
+  margin-top: 8px;
+}
+.material-symbols-outlined{
+  color: rgb(230, 95, 120);
+}
+Button{
+  background-color: rgb(230, 95, 120);
+  border-style: solid;
+  border-color: rgb(230, 95, 120);
+  border-radius: 2px;
+  color: aliceblue;
+}
+
+.hero{
+  color: white;
+  margin-top: 130px;
+  margin-left: 25%;
+  margin-right: auto;
+  display: flex;
+  
+}
+.des{
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.prop{
+  width: 130px;
+}
+.Vik{
+  font-size: 60px;
+  font-weight: 700;
+  display: flex;
+}
+h3{
+  font-size: 10px;
+  font-weight: 100;
+  
+}
+.singh{
+  color: rgb(230, 95, 120);
+}
+h2{
+  font-size: 30px;
+  margin-top: 20px;
+}
+.page2{
+  margin-top: 300px;
+  text-align: center;
+  color: white;
+  width: 100%;
+  height: 300px;
+}
